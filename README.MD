@@ -37,14 +37,7 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| conteúdo | Crie um artigo de até 5 seções sobre as diferenças principais diferenças entre Godot e Unity.
-
-{REGRAS}
-> não possuir mais do que 5 blocos de texto
-> blocos em texto corrido
-> trazer exemplos de código
-> linguagem jovem mas respeitosa
-> fazer call to action para as minhas redes sociais |
+| conteúdo | Crie um artigo de até 5 seções sobre as diferenças principais diferenças entre Godot e Unity. {REGRAS}- não possuir mais do que 5 blocos de texto blocos em texto corrido trazer exemplos de código linguagem jovem mas respeitosa fazer call to action para as minhas redes sociais |
 
 
 Paint.NET：
